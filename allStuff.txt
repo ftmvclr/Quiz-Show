@@ -1,0 +1,60 @@
+ . What is the capital city of Turkey?
+ Istanbul
+ Ankara
+ Antalya
+ Izmir
+ Ankara
+ . Which planet do we live on?
+ Earth
+ Mars
+ Jupiter
+ Pluto
+ Earth
+ . What is 2 + 2?
+ 3
+ 5
+ 4
+ 22
+ 4
+ . What color is a ripe banana?
+ Purple
+ Yellow
+ Blue
+ Red
+ Yellow
+ . Which animal says "Meow"?
+ Dog
+ Cat
+ Cow
+ Duck
+ Cat
+ . What is the chemical formula for water?
+ CO2
+ NaCl
+ O2
+ H2O
+ H2O
+ . Which season comes after Winter?
+ Summer
+ Autumn
+ Spring
+ Winter 2
+ Spring
+ . How many legs does a Dog have?
+ Four
+ Six
+ Two
+ Ten
+ Four
+ . What is the opposite of Cold?
+ Hot
+ Up
+ Left
+ Blue
+ Hot
+ . How many days are in a week? 
+ Ten
+ Seven
+ Three
+ Twelve
+ Seven

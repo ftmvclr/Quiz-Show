@@ -1,0 +1,14 @@
+#successBg{
+-fx-background-image: url("/congrats.jpg");
+-fx-background-size: cover;
+-fx-background-position: center center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: 75% 75%;
+
+}
+#failureBg{
+-fx-background-image: url("itiswhatitis.jpg");
+-fx-background-position: center center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: 75% 75%;
+}
