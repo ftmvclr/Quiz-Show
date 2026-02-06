@@ -1,4 +1,4 @@
-Quiz Show  
+Quiz Show    
 This is a customizable quiz show game.  
 All that is needed to be done is in the allStuff.txt file.  
 Place a "." before typing your question in that 1 line.  
